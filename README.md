@@ -1,7 +1,7 @@
 ## Oi! Eu sou Douglas.
 🖥 - Técnico em Informática<br>
 👨‍🎓 - Graduando em Sistemas de Informação 7/8<br>
-🤓 - Estudando React.js<br>
+🤓 - Estudando React.js e Data Science<br>
  <div>
   <a href="https://github.com/ieiradouglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ieiradouglas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
