@@ -4,7 +4,8 @@
 🤓 - Estudando React.js e Data Science<br>
  <div>
   <a href="https://github.com/ieiradouglas">
-  <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/3dc70af05e1a4adbaf8b736fae48960b.png?r=3mh" width="400" alt="Douglas Vieira da Silva's Dev Card"/></a>
+  <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/3dc70af05e1a4adbaf8b736fae48960b.png?r=3mh" width="300" alt="Douglas Vieira da Silva's Dev Card"/></a>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ieiradouglas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieiradouglas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
