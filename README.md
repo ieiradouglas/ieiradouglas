@@ -17,7 +17,7 @@
 </div><br>
 <div>
   <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/3dc70af05e1a4adbaf8b736fae48960b.png?r=3mh" width="300" alt="Douglas Vieira da Silva's Dev Card"/></a>
-</div>
+</div><br>
 <div> 
   <a href="https://instagram.com/ieiradouglas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ieiradouglas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
