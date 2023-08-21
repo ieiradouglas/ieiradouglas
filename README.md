@@ -1,7 +1,7 @@
 ## Oi! Eu sou Douglas.
 🖥 - Técnico em Informática<br>
-👨‍🎓 - Graduando em Sistemas de Informação 7/8<br>
-🤓 - Estudando React.js e Data Science<br>
+👨‍🎓 - Graduando em Sistemas de Informação 8/8<br>
+🤓 - Adoro programar e aprender, desafios são sempre bem-vindos!<br>
  <div>
   <a href="https://github.com/ieiradouglas">
   <br>
