@@ -1,10 +1,13 @@
 ## Oi! Eu sou Douglas.
 <div>
   <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/3dc70af05e1a4adbaf8b736fae48960b.png?r=3mh" width="300" alt="Douglas Vieira da Silva's Dev Card"/></a>
-</div><br>
+</div>
+<div></div>
+<div>
 🖥 - Técnico em Informática<br>
 👨‍🎓 - Graduando em Sistemas de Informação 8/8<br>
-🤓 - Adoro programar e aprender, desafios são sempre bem-vindos!<br>
+🤓 - Adoro programar e aprender, desafios são sempre bem-vindos!
+</div><br>
  <div>
   <a href="https://github.com/ieiradouglas">
   <br>
