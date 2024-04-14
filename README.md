@@ -1,7 +1,7 @@
 ## Oi! Eu sou Douglas.
 <div>
 <div style="max-width:300px;">
-  <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/3dc70af05e1a4adbaf8b736fae48960b.png?r=3mh" width="300" alt="Douglas Vieira da Silva's Dev Card"/></a>
+  <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/v2/U33roZkjujPW2SnYk7MaV.png?r=2hd&type=wide" width="652" alt="Douglas Vieira da Silva's Dev Card"/></a>
 </div>
 <div>
 🖥 - Técnico em Informática<br>
