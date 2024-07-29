@@ -4,8 +4,8 @@
   <a href="https://app.daily.dev/ieiradouglas"><img src="https://api.daily.dev/devcards/v2/U33roZkjujPW2SnYk7MaV.png?r=2hd&type=wide" width="652" alt="Douglas Vieira da Silva's Dev Card"/></a>
 </div>
 <div>
-🖥 - Técnico em Informática<br>
-👨‍🎓 - Graduando em Sistemas de Informação 8/8<br>
+🖥 - Apaixonado por tecnologia.<br>
+👨‍🎓 - Bacharel em Sistemas de Informação.<br>
 🤓 - Adoro programar e aprender, desafios são sempre bem-vindos!
 </div><br>
 </div>
