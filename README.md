@@ -11,7 +11,7 @@
 <div>
 🖥 - Apaixonado por tecnologia.<br>
 👨‍🎓 - Bacharel em Sistemas de Informação.<br>
-⚙️ - Pós graduando em Engenharia de Software.<br>
+⚙️ - Pós-graduando em Engenharia de Software.<br>
 🤓 - Gosto de arquitetar soluções para problemas.
 </div>
 
