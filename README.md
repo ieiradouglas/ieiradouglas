@@ -11,7 +11,8 @@
 <div>
 🖥 - Apaixonado por tecnologia.<br>
 👨‍🎓 - Bacharel em Sistemas de Informação.<br>
-🤓 - Adoro programar e aprender, desafios são sempre bem-vindos!
+⚙️ - Pós graduando em Engenharia de Software.<br>
+🤓 - Gosto de arquitetar soluções para problemas.
 </div>
 
 <br>
